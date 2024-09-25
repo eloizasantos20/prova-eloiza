@@ -2,4 +2,6 @@ body{
     background-color: rgb(103, 163, 165);
     text-align: center;
 }
-h1{color: azure;}
+h1{color: azure;
+font-style: italic;
+}
