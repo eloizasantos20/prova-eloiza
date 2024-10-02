@@ -1,7 +1,8 @@
 body{
-    background-color: rgb(103, 163, 165);
+    background-color: rgba(197, 184, 0, 0.308);
     text-align: center;
 }
-h1{color: azure;
+h2{color: azure;
 font-style: italic;
 }
+.p1{font-size: larger;}
